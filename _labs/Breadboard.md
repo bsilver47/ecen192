@@ -51,7 +51,7 @@ Repeating the process from the one LED, place three other LEDs (ideally red, yel
     <img alt = "Second circuit picture" src="{% link images/circuit2.jpg %}" width="200">
 </picture>
 
-The third circuit is optional, but involves a button and a buzzer. The setup is much like the other circuits, but with the involvement of the button will be more difficult to tell whether it is setup and oriented properly. For this reason, we will reuse the square LED from the first circuit so that we can tell with certainty that it works. The circuit itself should look like this.
+The third circuit is optional, but involves a button and a buzzer. The setup is much like the other circuits, but, with the involvement of the button, it will be more difficult to tell whether it is setup and oriented properly. For this reason, we will reuse the square LED from the first circuit so that we can tell with certainty that it works. The circuit itself should look like this.
 
 <picture>
     <img alt = "Animated circuit gif of traffic light in different states" src="{% link images/circuit3off.jpg %}" width="200">
@@ -63,13 +63,11 @@ When the button is pressed, it should look like this and play a sound.
     <img alt = "Animated circuit gif of traffic light in different states" src="{% link images/circuit3on.jpg %}" width="200">
 </picture>
 
-Don't forget to take a picture of your functioning circuits!
 Lastly, make a new circuit according to your own design! This could involve different color LEDs, new layouts, and a different number of LEDs, as well as buttons, switches, or even a buzzer; so long as it is according to your own design!
 
 
-
 ## Optional Out-of-Class Activities
-Recall how the square LED was much easier to see, and much nicer to look at than the other LEDs. This is because of the way it diffuses the the light. For the post-lab, find an object at home that will work well as a light diffuser to put over one of your other LEDs. (Hint: Try to find something translucent. If it is too solid, the light won't be able to get through, but if it is too clear, the light won't disperse as desired).
+Recall how the square LED was much easier to see, and much nicer to look at than the other LEDs. This is because of the way it diffuses light. For the post-lab, find an object at home that will work well as a light diffuser to put over one of your other LEDs. (Hint: Try to find something translucent. If it is too solid, the light won't be able to get through, but if it is too clear, the light won't disperse as desired).
 
 
 ## Rubric/Submission
